@@ -1,7 +1,3 @@
-@keyframes clicking {
-    form {}
-    to{background-color: aqua;}
-}
 html{
     display: inline-block;
     overflow: hidden;
@@ -16,8 +12,8 @@ form {
     margin-right: auto;
     position: relative;
      border-radius: 1%;
-     top: 220px;
-     left: 3.5%;
+     top: 13vh;
+     left: 2vw;
      box-shadow: -3px 2px 15px 0 rgb(17, 17, 17);
      z-index: 2;
 }    
